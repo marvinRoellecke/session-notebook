@@ -11,3 +11,7 @@
 
 - git pull --no-ff
 - git push -f
+
+## branch löschen
+
+- git branch -d feature/new-content
