@@ -83,3 +83,29 @@
 - ../
 - / 
 	- Unterschiede checken
+
+# Freitag 21.10.22
+
+## Positioning
+
+
+
+# Montag 24.10.22
+
+##  Accessabillity
+
+ - Notizen sind auf dem Collegeblock
+
+# Dienstag 25.10.22
+
+##  Javascript
+
+## Struktur in CSS
+
+# Mittwoch 26.10.22
+
+## CSS GRID
+
+- 1FR and content
+
+A fractional unit is 1 part of the total as long as the content is flexible. Meaning, 1FR tracks are equal in size as long as the content inside can scale to fit the column or row. However, once the content stops scaling to fit in the track, the track with an FR value will adjust to make the content fit. So, if one column has a grid child of fixed width, the width of that column will never be less than the width of the grid child.
