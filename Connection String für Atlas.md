@@ -1,1 +1,0 @@
-```MONGODB_URI=[mongodb+srv://lean-coffee-barista](mongodb+srv://lean-coffee-barista):****************@cluster0.gzn7r.mongodb.net/lean-coffee-board-api?retryWrites=true&w=majority```
